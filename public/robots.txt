@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://blog.benjuls.org/sitemap.xml
+Sitemap: http://benrasich.com/sitemap.xml

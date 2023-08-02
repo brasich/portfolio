@@ -25,11 +25,12 @@ The way forward, is actually backwards. I've been hosting this blog on GitHub Pa
 
 None of these concepts are new. In the days before Reddit became the 1-stop shop, I would methodically hop between a couple dozen blogs and RSS feeds to get news, thoughts, musings, etc. on topics I cared about from sources I trusted. When I had an issue with my car, I could go on an entire forum dedicated specifically to owners of 1st generation Ford Escapes and get answers. It all loaded fast, ads were minimal, life was good. Those tools never went away, they just went out of style, and maybe it's time to bring them back.
 
-Moving one step beyond my previous GitHub Pages deployment, this blog is now self-hosted on a Raspberry Pi 4. The static Hugo site is served via Caddy through a Cloudflare Tunnel. The only analytics are done via access logs, locally parsed with GoAccess to give hit count statistics. Getting this all up and running was easier than I expected - maybe a couple of hours of actual time on the keyboard even as a beginner.  At the end of it all, it's so cool to pull up this site knowing that behind it all is a tiny little computer sitting on my desk sipping a couple watts, serving this site a couple dollars a year in electricity, with all of its data completely my own. 
+Moving one step beyond my previous GitHub Pages deployment, this blog is self-hosted on a Raspberry Pi 4. The static Hugo site is served via Caddy through a Cloudflare Tunnel. The only analytics are done via access logs, locally parsed with GoAccess to give hit count statistics. Getting this all up and running was easier than I expected - maybe a couple of hours of actual time on the keyboard even as a beginner.  At the end of it all, it's so cool to pull up this site knowing that behind it all is a tiny little computer sitting on my desk sipping a couple watts, serving this site a couple dollars a year in electricity, with all of its data completely my own.
 
 Once I'm comfortable it's all working, I might have to put together a quick tutorial for this full `rpi/hugo/caddy/cloudflare` stack.
 
 To Do:
 + Migrate from SD Card to SSD [Done]
-+ Run caddy in a docker container to start running additional services alongside
-+ Real-time HTML report access log monitoring
++ Run caddy and goaccess in docker containers to start running additional services alongside
++ Real-time HTML report access log monitoring [Done]
++ Point benrasich.com to this as well (currently just running on a domain I have for tinkering on) [Done]

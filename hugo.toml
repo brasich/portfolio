@@ -1,4 +1,4 @@
-baseURL = "https://blog.benjuls.org/"
+baseURL = "http://benrasich.com/"
 title = "Ben Rasich"
 theme = "PaperMod"
 enableRobotsTXT = true
