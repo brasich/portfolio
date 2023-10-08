@@ -44,7 +44,7 @@ The full list of courses/books/articles I'm intending to work through are below.
 
 ### Transit Design
 - 🔄 Urban Transit for Liveable Cities - University of Pennsylvania
-- Confessions of a Recovering Engineer - Charles L. Marohn
+- 🔄 Confessions of a Recovering Engineer - Charles L. Marohn
 - Streetfight: Handbook for an Urban Revolution - Janette Sadik-Khan and Seth Solomonow
 
 
