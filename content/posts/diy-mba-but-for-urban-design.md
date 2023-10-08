@@ -32,7 +32,7 @@ The full list of courses/books/articles I'm intending to work through are below.
 🔄 - In Progress
 
 ### Urban Design
-- 🔄 The Death and Life of Great American Cities - Jane Jacobs
+- ✅ The Death and Life of Great American Cities - Jane Jacobs
 - Triumph of the City - Edward Glaeser
 - Walkable City - Jeff Speck
 - Tactical Urbanism - Mike Lydon and Anthony Garcia

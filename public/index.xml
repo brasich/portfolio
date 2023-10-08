@@ -88,5 +88,14 @@ What fall does have, though, is a near-perfect lineup of seasonal baked goods. F
 Currently the process is set up as follows:</description>
     </item>
     
+    <item>
+      <title>About Me</title>
+      <link>http://benrasich.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://benrasich.com/about/</guid>
+      <description>Hi, I&amp;rsquo;m Ben Rasich. As a seasoned data scientist with 5 years of analytical experience, I have developed a strong background in data analysis, statistical modeling, and machine learning. I&amp;rsquo;m an adept leader and team player across all phases of the data science lifecycle, from researching business requirements, to transforming those asks into a tractable problem, to building and implementing a data-driven solution via strong partnership with product and engineering teams.</description>
+    </item>
+    
   </channel>
 </rss>
