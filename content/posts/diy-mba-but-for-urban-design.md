@@ -41,12 +41,13 @@ The full list of courses/books/articles I'm intending to work through are below.
 - Planning in the USA: Policies, Issues, and Processes - Barry Cullingworth
 - Strong Towns - Charles L. Marohn
 - The BLDGBLOG Book - Geoff Manaugh
+- Complexity and Contradiction in Architecture - Robert Venturi
 
 ### Transit Design
 - 🔄 Urban Transit for Liveable Cities - University of Pennsylvania
-- 🔄 Confessions of a Recovering Engineer - Charles L. Marohn
+- ✅ Confessions of a Recovering Engineer - Charles L. Marohn
 - Streetfight: Handbook for an Urban Revolution - Janette Sadik-Khan and Seth Solomonow
-
+- [Human Transit](https://humantransit.org/basics) - Jarrett Walker
 
 ### Some useful stuff from DIY MBAs
 - ✅ Introduction to Corporate Finance - Wharton

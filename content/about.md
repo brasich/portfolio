@@ -17,6 +17,7 @@ Hi, I'm Ben Rasich. As a seasoned data scientist with 5 years of analytical expe
 - Azure Functions
 - Spark
 - Databricks
+- Snowflake
 
 ## Education
 **Rice University, Houston TX**  
