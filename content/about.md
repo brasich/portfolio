@@ -24,7 +24,7 @@ Hi, I'm Ben Rasich. As a seasoned data scientist with 5 years of analytical expe
 *B.S. Mechanical Engineering, cum laude* - Aug 2014 - May 2018  
 
 **University of Texas, Austin TX**  
-*M.S. Data Science (in progress)* - Aug 2021 - Dec 2023
+*M.S. Data Science* - Aug 2021 - Dec 2023
 
 ## Work Experience
 
