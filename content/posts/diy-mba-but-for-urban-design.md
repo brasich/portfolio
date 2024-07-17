@@ -6,7 +6,7 @@ draft: false
 
 ### School is fun*
 
-As I come to the end of my Data Science masters program at UT Austin this fall, I find myself looking for what's next. The most fun part of data science is getting to play around with new, state-of-the-art algorithms, which can continually be at odds with the realities of the workplace. In a business context, there's a ton of work that goes into test design, data collection, feature engineering, model interpretability, etc. When it's finally time to train a model, though, the more responsible choice is often to use a standard model from an open source library, maybe do some amount of hyperparameter tuning, get 80% of the benefits in 20% of the time compared to a deeper approach, and move on to the next problem. 
+I'm nearing the end of my Data Science masters program at UT Austin this fall, and I find myself looking for what's next. The most fun part of data science is getting to play around with new, state-of-the-art algorithms, which can continually be at odds with the realities of the workplace. In a business context, there's a ton of work that goes into test design, data collection, feature engineering, model interpretability, etc. When it's finally time to train a model, though, the more responsible choice is often to use a standard model from an open source library, maybe do some amount of hyperparameter tuning, get 80% of the benefits in 20% of the time compared to a deeper approach, and move on to the next problem. 
 
 Working towards this degree let me scratch that itch by getting to work through the design and implementation of deep learning classifiers, computer vision systems, reinforcement learning agents, and sequence-to-sequence transformers. That last one was particularly great, as that portion of my NLP class lined up with Chat GPT and other generative models taking the world by storm. Knowing how they worked under the hood was a great feeling and incredibly useful for cuttting through the hype cycle surrounding them. With a job already in hand, it has been much less stressful than any education I've had since back when I still had recess on my schedule. 
 
@@ -38,10 +38,10 @@ The full list of courses/books/articles I'm intending to work through are below.
 - Tactical Urbanism - Mike Lydon and Anthony Garcia
 - The American City: What Works and What Doesn't - Alexander Garvin
 - The Power Broker - Robert Caro
-- Planning in the USA: Policies, Issues, and Processes - Barry Cullingworth
+- 🔁 Planning in the USA: Policies, Issues, and Processes - Barry Cullingworth
 - Strong Towns - Charles L. Marohn
 - The BLDGBLOG Book - Geoff Manaugh
-- Complexity and Contradiction in Architecture - Robert Venturi
+- ✅ Complexity and Contradiction in Architecture - Robert Venturi
 
 ### Transit Design
 - 🔄 Urban Transit for Liveable Cities - University of Pennsylvania

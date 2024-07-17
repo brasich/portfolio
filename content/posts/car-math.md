@@ -43,7 +43,7 @@ If I didn't want to travel for skiing and biking and landed closer to ~20 full-d
 Outside of longer trips, most of my around-town trips are in the 2-4 mile round-trip range, which I've usually considered to be a toss-up between biking and driving. If the weather looks nice, I'll usually take my bike, and if I'm just not feeling it I'll usually take my car. After a few trips to the grocery store on the same route via both car and bike, I found myself much more annoyed with the car trips. To see if I could find a clear reason why, I conducted a (very un-scientific) experiment by recording a trip via GPS both in the car and on my bike. All small-sample-size caveats aside, each trip felt representative of a typical trip, and the findings definitely resonate with how each mode makes me feel.
 
 ### Experiment Setting
-- Trips conducted on exactly the same route through Downtown Denver.
+- Trips conducted on exactly the same route through downtown Denver.
 - GPS tracking was conducted via Strava with all auto-pause features turned off.
 - Tracking began as soon as I left my front door, and ended when I entered the front door of the grovery store.
 - Bike trip utilized the [Colorado Safety Stop](https://denverbicyclelaw.com/colorado-bicycle-laws/safety-stop/), a new law as of April 2022 allowing cyclists to effectively treat stop signs as yields and red lights as stop signs.
@@ -52,7 +52,7 @@ Plotting the average as-the-crow-flies distance to the destination over time, we
 
 ![Bike vs. Car Distance to Destination over Time](/img/distance_over_time.png)
 
-- Surprisingly, the bike trip was faster overall
+- Surprisingly, the bike trip was faster overall, taking less than 10 minutes vs. more than 15 in the car.
 - Both trips have a similar characteristic shape, but the horizontal portions (indicating time spent stopped or otherwise not progressing towards the destination) are much more significant on the plot for the car trip:
     - The roughly flat portions at the beginning and end of the trip represent time walking to my car, getting out of my apartment parking garage, parking in the grocery store garage, and taking the elevator to the store level. The much shorter bike equivalent was a trip down the elevator and a walk out of my apartment building lobby, then locking my bike by the front door and walking into the store.
     - Similar horizontal portions in the middle of the ride represent stop lights and stop signs. While much of the time in the car trip was spent waiting for a green light despite a lack of cross traffic, the bike trip plot shows I was able to move past those same locations relatively quickly after stopping. 
