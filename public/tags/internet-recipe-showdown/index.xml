@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Internet Recipe Showdown on Ben Rasich</title>
-    <link>http://benrasich.com/tags/internet-recipe-showdown/</link>
+    <link>http://localhost:1313/tags/internet-recipe-showdown/</link>
     <description>Recent content in Internet Recipe Showdown on Ben Rasich</description>
     <image>
       <title>Ben Rasich</title>
-      <url>http://benrasich.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://benrasich.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Dec 2021 20:28:36 -0500</lastBuildDate><atom:link href="http://benrasich.com/tags/internet-recipe-showdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Dec 2021 20:28:36 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/internet-recipe-showdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Internet Pumpkin Pie Showdown</title>
-      <link>http://benrasich.com/posts/pumpkin-pie-showdown/</link>
+      <link>http://localhost:1313/posts/pumpkin-pie-showdown/</link>
       <pubDate>Sat, 04 Dec 2021 20:28:36 -0500</pubDate>
       
-      <guid>http://benrasich.com/posts/pumpkin-pie-showdown/</guid>
-      <description>Fall: the leaves are changing, it&amp;rsquo;s too cold for shorts but not cold enough for skiing, and the sun seemingly sets before it rises. It&amp;rsquo;s easily near the bottom of my personal list of the top 4 best seasons on earth.
-What fall does have, though, is a near-perfect lineup of seasonal baked goods. From apple crumb cakes to snickerdoodles, the coalescence of the harvest and weather-induced boredom has given rise to an incredible pantheon of autumnal delicacies.</description>
+      <guid>http://localhost:1313/posts/pumpkin-pie-showdown/</guid>
+      <description>&lt;p&gt;Fall: the leaves are changing, it&amp;rsquo;s too cold for shorts but not cold enough for skiing, and the sun seemingly sets before it rises. It&amp;rsquo;s easily near the bottom of my personal list of the top 4 best seasons on earth.&lt;/p&gt;
+&lt;p&gt;What fall does have, though, is a near-perfect lineup of seasonal baked goods. From apple crumb cakes to snickerdoodles, the coalescence of the harvest and weather-induced boredom has given rise to an incredible pantheon of autumnal delicacies. Still, none of them can hold a candle to the one true champion of fall desserts: Pumpkin Pie.&lt;/p&gt;</description>
     </item>
     
   </channel>
