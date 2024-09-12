@@ -9,7 +9,7 @@ buildExpired = false
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = false
+      unsafe = true
 
 [minify]
 disableXML = true
