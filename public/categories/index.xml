@@ -9,35 +9,30 @@
       <url>http://benrasich.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://benrasich.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Aug 2022 17:13:29 -0600</lastBuildDate><atom:link href="http://benrasich.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 17:13:29 -0600</lastBuildDate>
+    <atom:link href="http://benrasich.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bikes</title>
+      <title>Bikes</title>
       <link>http://benrasich.com/categories/bikes/</link>
       <pubDate>Thu, 25 Aug 2022 17:13:29 -0600</pubDate>
-      
       <guid>http://benrasich.com/categories/bikes/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>baking</title>
+      <title>Baking</title>
       <link>http://benrasich.com/categories/baking/</link>
       <pubDate>Sat, 04 Dec 2021 20:28:36 -0500</pubDate>
-      
       <guid>http://benrasich.com/categories/baking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>welcome</title>
+      <title>Welcome</title>
       <link>http://benrasich.com/categories/welcome/</link>
       <pubDate>Sat, 27 Nov 2021 10:41:59 -0500</pubDate>
-      
       <guid>http://benrasich.com/categories/welcome/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

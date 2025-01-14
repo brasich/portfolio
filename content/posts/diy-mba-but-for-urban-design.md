@@ -35,12 +35,12 @@ The full list of courses/books/articles I'm intending to work through are below.
 - ✅ The Death and Life of Great American Cities - Jane Jacobs
 - Triumph of the City - Edward Glaeser
 - Walkable City - Jeff Speck
-- Tactical Urbanism - Mike Lydon and Anthony Garcia
+- ✅ Tactical Urbanism - Mike Lydon and Anthony Garcia
 - The American City: What Works and What Doesn't - Alexander Garvin
-- The Power Broker - Robert Caro
-- 🔁 Planning in the USA: Policies, Issues, and Processes - Barry Cullingworth
+- ✅ The Power Broker - Robert Caro
+- 🔄 Planning in the USA: Policies, Issues, and Processes - Barry Cullingworth
 - Strong Towns - Charles L. Marohn
-- The BLDGBLOG Book - Geoff Manaugh
+- 🔄 The BLDGBLOG Book - Geoff Manaugh
 - ✅ Complexity and Contradiction in Architecture - Robert Venturi
 
 ### Transit Design

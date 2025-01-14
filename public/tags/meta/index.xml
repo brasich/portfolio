@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>meta on Ben Rasich</title>
+    <title>Meta on Ben Rasich</title>
     <link>http://benrasich.com/tags/meta/</link>
-    <description>Recent content in meta on Ben Rasich</description>
+    <description>Recent content in Meta on Ben Rasich</description>
     <image>
       <title>Ben Rasich</title>
       <url>http://benrasich.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://benrasich.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Nov 2021 10:41:59 -0500</lastBuildDate><atom:link href="http://benrasich.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Nov 2021 10:41:59 -0500</lastBuildDate>
+    <atom:link href="http://benrasich.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
       <link>http://benrasich.com/posts/welcome/</link>
       <pubDate>Sat, 27 Nov 2021 10:41:59 -0500</pubDate>
-      
       <guid>http://benrasich.com/posts/welcome/</guid>
-      <description>Testing out the workflow for blogging with Hugo. It&amp;rsquo;s a goal of mine to start writing more and documenting my projects. It&amp;rsquo;s been a real pain trying to find a way to cheaply host a site on my own domain that gives me enough customization to be fun. It seems like this combination of Hugo + Github Pages will be useful, but I&amp;rsquo;ll have to give it some time.
-Currently the process is set up as follows:</description>
+      <description>&lt;p&gt;Testing out the workflow for blogging with Hugo. It&amp;rsquo;s a goal of mine to start writing more and documenting my projects. It&amp;rsquo;s been a real pain trying to find a way to cheaply host a site on my own domain that gives me enough customization to be fun. It seems like this combination of Hugo + Github Pages will be useful, but I&amp;rsquo;ll have to give it some time.&lt;/p&gt;
+&lt;p&gt;Currently the process is set up as follows:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
