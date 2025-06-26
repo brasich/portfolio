@@ -6,7 +6,7 @@ author: " "
 ShowBreadCrumbs: false
 ---
 
-Hi, I'm Ben Rasich. As a seasoned data scientist with 5 years of analytical experience, I have developed a strong background in data analysis, statistical modeling, and machine learning. I'm an adept leader and team player across all phases of the data science lifecycle, from researching business requirements, to transforming those asks into a tractable problem, to building and implementing a data-driven solution via strong partnership with product and engineering teams.
+Hi, I'm Ben Rasich. As a seasoned data scientist with 8 years of analytical experience, I have developed a strong background in data analysis, statistical modeling, and machine learning. I'm an adept leader and team player across all phases of the data science lifecycle, from researching business requirements, to transforming those asks into a tractable problem, to building and implementing a data-driven solution via strong partnership with product and engineering teams.
 
 ## Skills
 - Python

@@ -40,7 +40,7 @@ The full list of courses/books/articles I'm intending to work through are below.
 - ✅ The Power Broker - Robert Caro
 - 🔄 Planning in the USA: Policies, Issues, and Processes - Barry Cullingworth
 - Strong Towns - Charles L. Marohn
-- 🔄 The BLDGBLOG Book - Geoff Manaugh
+- ✅ The BLDGBLOG Book - Geoff Manaugh
 - ✅ Complexity and Contradiction in Architecture - Robert Venturi
 
 ### Transit Design
